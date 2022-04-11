@@ -1,9 +1,0 @@
-{
-  "name": "genshin",
-  "version": "1.0.0",
-  "description": "点歌插件,支持搜索并分享多个来源的音乐",
-  "plugin": {
-    "git": "pcrbot/music.git",
-    "requirements": []
-  }
-}
